@@ -1,1 +1,1 @@
-This is a file to edit later
+Overwritten file004.txt contents
